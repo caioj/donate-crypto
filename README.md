@@ -1,3 +1,17 @@
+# Projeto Donate Crypto
+Este projeto foi desenvolvido para didádicas de estudo de Blockchain.
+
+No projeto foi usado as seguintes tecnologias:
+- Javascript
+- Node.Js
+- Solidity
+- Next.Js
+- Bootstrap
+- API Web3 para conexão da Wallet
+_______________________________________________________________________________________________
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
