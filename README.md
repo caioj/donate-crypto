@@ -1,6 +1,8 @@
 # Projeto Donate Crypto
 Este projeto foi desenvolvido para didádicas de estudo de Blockchain.
 
+Deploy: (https://donate-crypto.vercel.app/)
+
 No projeto foi usado as seguintes tecnologias:
 - Javascript
 - Node.Js
